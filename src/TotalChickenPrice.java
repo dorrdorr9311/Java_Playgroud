@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 public class TotalChickenPrice {
-	public static void main() {
+	public static void main(String[] args) {
 		ArrayList<Chicken> order = new ArrayList<Chicken>();
 			order.add(new Chicken("후라이드", 9900));
 			order.add(new Chicken("로스트", 9900));
